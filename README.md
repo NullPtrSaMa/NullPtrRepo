@@ -1,0 +1,2 @@
+# NullPtrRepo
+Code Save Place
